@@ -1,0 +1,13 @@
+Amazon Sales Performance Analysis and Rating Prediction System
+
+This project presents a comprehensive data analytics and predictive modeling approach to analyze product performance on an e-commerce platform using an Amazon product dataset. The primary objective is to extract actionable insights from historical data and develop a predictive system that can assist in data-driven decision-making.
+
+The project begins with extensive data preprocessing and cleaning, where inconsistencies such as missing values, incorrect formats, and redundant information are handled to ensure data quality. Following this, exploratory data analysis (EDA) is performed to understand key trends related to product categories, pricing strategies, discount patterns, and customer engagement metrics.
+
+Through visualization techniques, the project identifies meaningful patterns such as the relationship between pricing and customer ratings, the impact of discounts on product perception, and the distribution of ratings across categories. These insights provide a deeper understanding of how different factors influence customer satisfaction.
+
+To enhance the analytical capability, a machine learning model based on Linear Regression is implemented to predict product ratings using features such as discounted price, actual price, discount percentage, and rating count. This predictive component transforms the project from descriptive analytics to a more advanced predictive analytics system, enabling estimation of product performance prior to market release.
+
+The model is evaluated using standard metrics such as Mean Absolute Error (MAE) and R² score, providing a quantitative measure of its performance and reliability. While the model offers valuable predictions, it also highlights the influence of external qualitative factors such as product quality and brand perception, which are not directly captured in the dataset.
+
+Overall, this project demonstrates the integration of data cleaning, visualization, statistical analysis, and machine learning to solve a real-world business problem. It provides practical insights for e-commerce platforms to optimize pricing strategies, improve product offerings, and enhance customer satisfaction through informed decision-making.
